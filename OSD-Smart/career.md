@@ -5,7 +5,7 @@
 1. Have conversations with your mentor
 1. Combat your impostor syndrome
 
-## Add your own tip to the list or constribute a visual change
+## Add your own tips to the list or constribute a visual change
 
 - Add here tips and best practices about career
 - Create new .md file for a new subject you would like to contribute
